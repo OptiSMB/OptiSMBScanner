@@ -46,7 +46,7 @@ public class ScannerActivity extends AppCompatActivity {
 
         previewView = findViewById(R.id.previewView);
         qrResultText = findViewById(R.id.qrResultText);
-
+        //Hey
         cameraExecutor = Executors.newSingleThreadExecutor();
 
         // Check camera permissions
